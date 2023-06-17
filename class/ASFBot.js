@@ -44,7 +44,7 @@ class ASFBot {
             this.activeHoursOffset = config.activeHoursOffset; // Determines when the bot starts being active each day. Some bot play in the morning, others in the afternoon.
             this.daysOffProbability = config.daysOffProbability; // The probability of the bot taking a day off. Some bot take more days off than others.
             this.daysOff = config.daysOff; // An array of days (expressed as numbers from 0 to 6) when the bot takes a day off. In case you want a day to always be off.
-            logger.success(`[${this.botName}] Loaded config`);
+            logger.success(`[${this.botName}] Bot config loaded`);
         } else {
             // If it doesn't, create a new config with default values and save it
             this.globalRandomAchievementFactor = this.randomFloatBetween(0.75, 1.25); // The bot can unlock achievements between 25% faster or 25% slower than the standard model.
@@ -63,7 +63,7 @@ class ASFBot {
             }
             logger.error(`[${this.botName}] No config file found, created a new one`);
             this.saveConfig();
-            logger.success(`[${this.botName}] Config file saved`);
+            logger.success(`[${this.botName}] Bot config file saved`);
         }
         logger.info(`[${this.botName}] Config: [globalRandomAchievementFactor: ${this.globalRandomAchievementFactor.toFixed(2)} | remainingPlaytime: ${this.remainingPlaytime.toFixed(2)} | activeHoursDuration: ${this.activeHoursDuration.toFixed(2)} | activeHoursOffset: ${this.activeHoursOffset.toFixed(2)} | daysOffProbability: ${this.daysOffProbability.toFixed(2)} | daysOff: ${this.daysOff}]`);
     }
@@ -209,8 +209,6 @@ class ASFBot {
             if (this.remainingPlaytime <= 0) {
                 // Get the next achievement
                 const nextAchievement = await this.getNextAchievement();
-
-                logger.success(`[${this.botName}] Time to unlock an achievement: ${nextAchievement.id}. ${nextAchievement.name} (${nextAchievement.rare}%)`);
 
                 // Unlock the achievement
                 await this.unlockAchievement(appId, nextAchievement);
