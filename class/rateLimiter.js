@@ -31,7 +31,7 @@ class RateLimiter {
                 }
 
                 this.queue[ip] = this.queue[ip].then(() => {
-                    logger.info(`[${ip}] Next request delayed by ${delay} ms`);
+                    logger.log(`[${ip}] Next request delayed by ${delay} ms`);
                     return new Promise(resolve => setTimeout(resolve, delay));
                 });
                 

@@ -83,7 +83,7 @@ class ASFBot {
 
     // Execute a command on ASF
     async executeASFCommand(command) {
-        logger.info(`[${this.botName}] Executing command '${command}'`);
+        logger.log(`[${this.botName}] Executing command '${command}'`);
 
         // This is global and it'll delay all the bots if they have the same IP
         await rateLimiter.limit(this.ASFServerIP);
