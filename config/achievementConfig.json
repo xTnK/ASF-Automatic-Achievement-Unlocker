@@ -1,0 +1,13 @@
+{
+    "baseFactor": 0.2,
+    "scaleFactor": 7.3,
+    "finalRampFactor": 5,
+    "finalRampTrigger": 145,
+    "description": {
+        "baseFactor": "This parameter represents the initial estimate of the time it takes to unlock an achievement when no other achievements have been unlocked.",
+        "scaleFactor": "This parameter determines how rapidly the estimated time increases as more achievements are unlocked.",
+        "finalRampFactor": "This parameter is an additional factor that steepens the exponential curve of the estimated time when the number of achievements reaches the finalRampTrigger value.",
+        "finalRampTrigger": "This parameter represents the number of achievements that must be unlocked to trigger the finalRampFactor.",
+        "more": "For further understanding, read the code and run the file 'achievementTimeEstimation.js' from the 'test' folder."
+    }
+}

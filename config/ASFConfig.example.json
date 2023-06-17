@@ -1,0 +1,21 @@
+{
+    "ipc_password": "YourPassword",
+    "vps": [
+      {
+        "ip": "ip_vps_1",
+        "port": "port_vps_1",
+        "bots": ["Bot1", "Bot2", "Bot3"]
+      },
+      {
+        "ip": "ip_vps_2",
+        "port": "port_vps_2",
+        "bots": ["Bot4", "Bot5"]
+      },
+      {
+        "ip": "ip_vps_3",
+        "port": "port_vps_3",
+        "bots": ["Bot6", "Bot7", "Bot8"]
+      }
+    ]
+  }
+  

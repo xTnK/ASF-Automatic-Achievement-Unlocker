@@ -1,0 +1,837 @@
+[
+    {
+        "name": "Points in Your Favor",
+        "rare": "67.1",
+        "id": "14"
+    },
+    {
+        "name": "Shot With Their Pants Down",
+        "rare": "66.7",
+        "id": "60"
+    },
+    {
+        "name": "The Unstoppable Force",
+        "rare": "66.3",
+        "id": "87"
+    },
+    {
+        "name": "Body Bagger",
+        "rare": "64.8",
+        "id": "4"
+    },
+    {
+        "name": "Newb World Order",
+        "rare": "64.3",
+        "id": "11"
+    },
+    {
+        "name": "The Immovable Object",
+        "rare": "62.3",
+        "id": "88"
+    },
+    {
+        "name": "War Bonds",
+        "rare": "61.8",
+        "id": "24"
+    },
+    {
+        "name": "Eye to Eye",
+        "rare": "60.7",
+        "id": "70"
+    },
+    {
+        "name": "Finishing Schooled",
+        "rare": "60.0",
+        "id": "59"
+    },
+    {
+        "name": "Mercy Rule",
+        "rare": "57.2",
+        "id": "84"
+    },
+    {
+        "name": "Magic Bullet",
+        "rare": "55.2",
+        "id": "54"
+    },
+    {
+        "name": "Primer",
+        "rare": "53.4",
+        "id": "58"
+    },
+    {
+        "name": "Head Shred Redemption",
+        "rare": "52.9",
+        "id": "89"
+    },
+    {
+        "name": "Hip Shot",
+        "rare": "52.6",
+        "id": "69"
+    },
+    {
+        "name": "Blitzkrieg",
+        "rare": "50.6",
+        "id": "76"
+    },
+    {
+        "name": "Ballistic",
+        "rare": "48.2",
+        "id": "17"
+    },
+    {
+        "name": "Variety Hour",
+        "rare": "47.5",
+        "id": "51"
+    },
+    {
+        "name": "War of Attrition",
+        "rare": "47.1",
+        "id": "53"
+    },
+    {
+        "name": "Repeat Offender",
+        "rare": "46.0",
+        "id": "107"
+    },
+    {
+        "name": "The Cleaner",
+        "rare": "45.9",
+        "id": "50"
+    },
+    {
+        "name": "Someone Set Up Us The Bomb",
+        "rare": "45.8",
+        "id": "1"
+    },
+    {
+        "name": "Blind Fury",
+        "rare": "45.6",
+        "id": "62"
+    },
+    {
+        "name": "Rite of First Defusal",
+        "rare": "45.2",
+        "id": "9"
+    },
+    {
+        "name": "Dead Man Stalking",
+        "rare": "42.3",
+        "id": "73"
+    },
+    {
+        "name": "Kill One, Get One Spree",
+        "rare": "41.7",
+        "id": "55"
+    },
+    {
+        "name": "Overkill",
+        "rare": "41.5",
+        "id": "109"
+    },
+    {
+        "name": "Insurgent",
+        "rare": "41.4",
+        "id": "111"
+    },
+    {
+        "name": "Avenging Angel",
+        "rare": "39.6",
+        "id": "118"
+    },
+    {
+        "name": "Bunny Hunt",
+        "rare": "39.6",
+        "id": "99"
+    },
+    {
+        "name": "You've Made Your Points",
+        "rare": "38.6",
+        "id": "15"
+    },
+    {
+        "name": "Participation Award",
+        "rare": "38.3",
+        "id": "106"
+    },
+    {
+        "name": "Piece Initiative",
+        "rare": "38.1",
+        "id": "77"
+    },
+    {
+        "name": "Make the Cut",
+        "rare": "36.8",
+        "id": "66"
+    },
+    {
+        "name": "Ammo Conservation",
+        "rare": "36.1",
+        "id": "23"
+    },
+    {
+        "name": "Corpseman",
+        "rare": "33.9",
+        "id": "5"
+    },
+    {
+        "name": "Clean Sweep",
+        "rare": "33.7",
+        "id": "85"
+    },
+    {
+        "name": "Pro-moted",
+        "rare": "32.8",
+        "id": "12"
+    },
+    {
+        "name": "Battle Sight Zero",
+        "rare": "31.9",
+        "id": "57"
+    },
+    {
+        "name": "Lost and F0wnd",
+        "rare": "31.7",
+        "id": "18"
+    },
+    {
+        "name": "Short Fuse",
+        "rare": "30.9",
+        "id": "10"
+    },
+    {
+        "name": "Still Alive",
+        "rare": "30.3",
+        "id": "147"
+    },
+    {
+        "name": "Death From Above",
+        "rare": "29.2",
+        "id": "98"
+    },
+    {
+        "name": "Counter-Counter-Terrorist",
+        "rare": "28.3",
+        "id": "8"
+    },
+    {
+        "name": "Decimator",
+        "rare": "27.7",
+        "id": "108"
+    },
+    {
+        "name": "Blast Will and Testament",
+        "rare": "27.1",
+        "id": "82"
+    },
+    {
+        "name": "Snipe Hunter",
+        "rare": "27.0",
+        "id": "72"
+    },
+    {
+        "name": "Street Fighter",
+        "rare": "25.9",
+        "id": "75"
+    },
+    {
+        "name": "Hat Trick",
+        "rare": "25.7",
+        "id": "113"
+    },
+    {
+        "name": "Dust2 Map Veteran",
+        "rare": "25.4",
+        "id": "94"
+    },
+    {
+        "name": "Born Ready",
+        "rare": "25.2",
+        "id": "146"
+    },
+    {
+        "name": "Excessive Brutality",
+        "rare": "25.0",
+        "id": "115"
+    },
+    {
+        "name": "Base Scamper",
+        "rare": "24.7",
+        "id": "145"
+    },
+    {
+        "name": "Give Piece a Chance",
+        "rare": "24.7",
+        "id": "78"
+    },
+    {
+        "name": "Spoils of War",
+        "rare": "24.1",
+        "id": "25"
+    },
+    {
+        "name": "Sknifed",
+        "rare": "22.4",
+        "id": "71"
+    },
+    {
+        "name": "Blind Ambition",
+        "rare": "22.0",
+        "id": "61"
+    },
+    {
+        "name": "Friendly Firearms",
+        "rare": "21.9",
+        "id": "63"
+    },
+    {
+        "name": "Gungamer",
+        "rare": "21.1",
+        "id": "133"
+    },
+    {
+        "name": "Defusus Interruptus",
+        "rare": "20.9",
+        "id": "105"
+    },
+    {
+        "name": "Killanthropist",
+        "rare": "20.7",
+        "id": "103"
+    },
+    {
+        "name": "Vacation",
+        "rare": "20.4",
+        "id": "124"
+    },
+    {
+        "name": "P2000/USP Tactical Expert",
+        "rare": "20.2",
+        "id": "154"
+    },
+    {
+        "name": "Cold War",
+        "rare": "20.0",
+        "id": "102"
+    },
+    {
+        "name": "Denied!",
+        "rare": "19.5",
+        "id": "119"
+    },
+    {
+        "name": "FIRST!",
+        "rare": "19.4",
+        "id": "140"
+    },
+    {
+        "name": "Second to None",
+        "rare": "18.7",
+        "id": "7"
+    },
+    {
+        "name": "Akimbo King",
+        "rare": "18.7",
+        "id": "86"
+    },
+    {
+        "name": "P250 Expert",
+        "rare": "18.4",
+        "id": "155"
+    },
+    {
+        "name": "Spray and Pray",
+        "rare": "18.1",
+        "id": "116"
+    },
+    {
+        "name": "Inferno Map Veteran",
+        "rare": "17.9",
+        "id": "95"
+    },
+    {
+        "name": "Glock-18 Expert",
+        "rare": "17.7",
+        "id": "29"
+    },
+    {
+        "name": "Boomala Boomala",
+        "rare": "17.4",
+        "id": "2"
+    },
+    {
+        "name": "AWP Expert",
+        "rare": "17.3",
+        "id": "33"
+    },
+    {
+        "name": "Black Bag Operation",
+        "rare": "17.3",
+        "id": "101"
+    },
+    {
+        "name": "Expert Marksman",
+        "rare": "16.6",
+        "id": "64"
+    },
+    {
+        "name": "SG553 Expert",
+        "rare": "16.5",
+        "id": "157"
+    },
+    {
+        "name": "Desert Eagle Expert",
+        "rare": "16.3",
+        "id": "28"
+    },
+    {
+        "name": "Dead Shepherd",
+        "rare": "16.0",
+        "id": "52"
+    },
+    {
+        "name": "Five-SeveN Expert",
+        "rare": "15.4",
+        "id": "31"
+    },
+    {
+        "name": "SSG 08 Expert",
+        "rare": "15.3",
+        "id": "158"
+    },
+    {
+        "name": "Dual Berettas Expert",
+        "rare": "15.2",
+        "id": "30"
+    },
+    {
+        "name": "Can't Keep a Good Man Down",
+        "rare": "15.0",
+        "id": "112"
+    },
+    {
+        "name": "Shrapnelproof",
+        "rare": "14.4",
+        "id": "65"
+    },
+    {
+        "name": "Premature Burial",
+        "rare": "14.1",
+        "id": "27"
+    },
+    {
+        "name": "FAMAS Expert",
+        "rare": "14.0",
+        "id": "37"
+    },
+    {
+        "name": "AK-47 Expert",
+        "rare": "14.0",
+        "id": "34"
+    },
+    {
+        "name": "Ten Angry Men",
+        "rare": "13.7",
+        "id": "114"
+    },
+    {
+        "name": "A Million Points of Blight",
+        "rare": "13.1",
+        "id": "16"
+    },
+    {
+        "name": "One Shot One Kill",
+        "rare": "13.1",
+        "id": "143"
+    },
+    {
+        "name": "M4 AR Expert",
+        "rare": "12.4",
+        "id": "35"
+    },
+    {
+        "name": "Knife Expert",
+        "rare": "12.2",
+        "id": "47"
+    },
+    {
+        "name": "Shoots Vet",
+        "rare": "12.1",
+        "id": "121"
+    },
+    {
+        "name": "Piece Treaty",
+        "rare": "11.6",
+        "id": "79"
+    },
+    {
+        "name": "MP9 Expert",
+        "rare": "11.5",
+        "id": "160"
+    },
+    {
+        "name": "Practice Practice Practice",
+        "rare": "11.4",
+        "id": "130"
+    },
+    {
+        "name": "Aerial Necrobatics",
+        "rare": "11.3",
+        "id": "100"
+    },
+    {
+        "name": "MAC-10 Expert",
+        "rare": "10.9",
+        "id": "41"
+    },
+    {
+        "name": "God of War",
+        "rare": "10.8",
+        "id": "6"
+    },
+    {
+        "name": "SCAR-20 Expert",
+        "rare": "10.8",
+        "id": "156"
+    },
+    {
+        "name": "MAG-7 Expert",
+        "rare": "10.7",
+        "id": "161"
+    },
+    {
+        "name": "The Frugal Beret",
+        "rare": "10.6",
+        "id": "104"
+    },
+    {
+        "name": "Bank On It",
+        "rare": "10.2",
+        "id": "149"
+    },
+    {
+        "name": "AUG Expert",
+        "rare": "10.1",
+        "id": "36"
+    },
+    {
+        "name": "Tec-9 Expert",
+        "rare": "10.0",
+        "id": "152"
+    },
+    {
+        "name": "Conservationist",
+        "rare": "9.9",
+        "id": "144"
+    },
+    {
+        "name": "Negev Expert",
+        "rare": "9.9",
+        "id": "164"
+    },
+    {
+        "name": "Galil AR Expert",
+        "rare": "9.9",
+        "id": "167"
+    },
+    {
+        "name": "Leet-er of Men",
+        "rare": "9.9",
+        "id": "13"
+    },
+    {
+        "name": "The Road to Hell",
+        "rare": "9.7",
+        "id": "117"
+    },
+    {
+        "name": "G3SG1 Expert",
+        "rare": "9.5",
+        "id": "38"
+    },
+    {
+        "name": "The Hurt Blocker",
+        "rare": "9.4",
+        "id": "3"
+    },
+    {
+        "name": "Zeus x27 Expert",
+        "rare": "9.4",
+        "id": "153"
+    },
+    {
+        "name": "Command and Control",
+        "rare": "9.3",
+        "id": "110"
+    },
+    {
+        "name": "Awardist",
+        "rare": "9.2",
+        "id": "148"
+    },
+    {
+        "name": "Nuke Map Veteran",
+        "rare": "9.0",
+        "id": "96"
+    },
+    {
+        "name": "Marcsman",
+        "rare": "8.8",
+        "id": "127"
+    },
+    {
+        "name": "Level Playing Field",
+        "rare": "8.7",
+        "id": "129"
+    },
+    {
+        "name": "Sawed-Off Expert",
+        "rare": "8.3",
+        "id": "162"
+    },
+    {
+        "name": "MP7 Expert",
+        "rare": "8.2",
+        "id": "159"
+    },
+    {
+        "name": "My House",
+        "rare": "8.2",
+        "id": "125"
+    },
+    {
+        "name": "Pistol Master",
+        "rare": "8.1",
+        "id": "32"
+    },
+    {
+        "name": "Wild Gooseman Chase",
+        "rare": "8.1",
+        "id": "81"
+    },
+    {
+        "name": "Knife on Knife",
+        "rare": "8.0",
+        "id": "128"
+    },
+    {
+        "name": "Nova Expert",
+        "rare": "7.7",
+        "id": "163"
+    },
+    {
+        "name": "Train Map Veteran",
+        "rare": "7.1",
+        "id": "166"
+    },
+    {
+        "name": "P90 Expert",
+        "rare": "7.1",
+        "id": "40"
+    },
+    {
+        "name": "Run of the Mill",
+        "rare": "6.9",
+        "id": "126"
+    },
+    {
+        "name": "UMP-45 Expert",
+        "rare": "6.8",
+        "id": "42"
+    },
+    {
+        "name": "Blood Money",
+        "rare": "6.6",
+        "id": "26"
+    },
+    {
+        "name": "The Bleeding Edge",
+        "rare": "6.6",
+        "id": "67"
+    },
+    {
+        "name": "PP-Bizon Expert",
+        "rare": "6.1",
+        "id": "151"
+    },
+    {
+        "name": "XM1014 Expert",
+        "rare": "6.1",
+        "id": "44"
+    },
+    {
+        "name": "M249 Expert",
+        "rare": "6.0",
+        "id": "48"
+    },
+    {
+        "name": "Good Shepherd",
+        "rare": "5.9",
+        "id": "21"
+    },
+    {
+        "name": "Shorter Fuse",
+        "rare": "5.6",
+        "id": "122"
+    },
+    {
+        "name": "Baggage Claimer",
+        "rare": "5.5",
+        "id": "150"
+    },
+    {
+        "name": "Rifle Master",
+        "rare": "5.3",
+        "id": "39"
+    },
+    {
+        "name": "Office Map Veteran",
+        "rare": "5.3",
+        "id": "91"
+    },
+    {
+        "name": "Target-Hardened",
+        "rare": "5.1",
+        "id": "83"
+    },
+    {
+        "name": "HE Grenade Expert",
+        "rare": "5.1",
+        "id": "46"
+    },
+    {
+        "name": "Shotgun Master",
+        "rare": "4.9",
+        "id": "45"
+    },
+    {
+        "name": "Freed With Speed",
+        "rare": "4.4",
+        "id": "22"
+    },
+    {
+        "name": "Flame Expert",
+        "rare": "4.2",
+        "id": "165"
+    },
+    {
+        "name": "Sub-Machine Gun Master",
+        "rare": "4.1",
+        "id": "43"
+    },
+    {
+        "name": "Shorttrain Map Veteran",
+        "rare": "4.0",
+        "id": "97"
+    },
+    {
+        "name": "Keep on Gunning",
+        "rare": "3.7",
+        "id": "134"
+    },
+    {
+        "name": "Target Secured",
+        "rare": "3.6",
+        "id": "142"
+    },
+    {
+        "name": "First Things First",
+        "rare": "3.6",
+        "id": "141"
+    },
+    {
+        "name": "Defuse This!",
+        "rare": "3.6",
+        "id": "68"
+    },
+    {
+        "name": "Three the Hard Way",
+        "rare": "3.5",
+        "id": "74"
+    },
+    {
+        "name": "Gun Collector",
+        "rare": "3.5",
+        "id": "131"
+    },
+    {
+        "name": "Tourist",
+        "rare": "3.3",
+        "id": "138"
+    },
+    {
+        "name": "Quick Cut",
+        "rare": "3.1",
+        "id": "123"
+    },
+    {
+        "name": "Italy Map Veteran",
+        "rare": "2.7",
+        "id": "90"
+    },
+    {
+        "name": "A World of Pane",
+        "rare": "2.6",
+        "id": "56"
+    },
+    {
+        "name": "Master At Arms",
+        "rare": "2.6",
+        "id": "49"
+    },
+    {
+        "name": "Clusterstruck",
+        "rare": "2.3",
+        "id": "80"
+    },
+    {
+        "name": "Dust Map Veteran",
+        "rare": "2.3",
+        "id": "93"
+    },
+    {
+        "name": "Marksman",
+        "rare": "2.2",
+        "id": "120"
+    },
+    {
+        "name": "Rampage!",
+        "rare": "2.1",
+        "id": "139"
+    },
+    {
+        "name": "Aztec Map Veteran",
+        "rare": "2.1",
+        "id": "92"
+    },
+    {
+        "name": "Cowboy Diplomacy",
+        "rare": "2.1",
+        "id": "19"
+    },
+    {
+        "name": "Kill of the Century",
+        "rare": "2.0",
+        "id": "135"
+    },
+    {
+        "name": "SAR Czar",
+        "rare": "1.8",
+        "id": "20"
+    },
+    {
+        "name": "The Professional",
+        "rare": "1.7",
+        "id": "136"
+    },
+    {
+        "name": "King of the Kill",
+        "rare": "1.7",
+        "id": "132"
+    },
+    {
+        "name": "Cold Pizza Eater",
+        "rare": "1.7",
+        "id": "137"
+    }
+]
