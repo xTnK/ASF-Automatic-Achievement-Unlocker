@@ -297,7 +297,7 @@ class ASFBot {
             size = 1;
         }
         const topAchievements = achievements.slice(0, size);
-        return topAchievements[this.randomIntBetween(0, topAchievements.length)];
+        return topAchievements[this.randomIntBetween(0, topAchievements.length - 1)];
     }
 
     // Function to get the next achievement to unlock
