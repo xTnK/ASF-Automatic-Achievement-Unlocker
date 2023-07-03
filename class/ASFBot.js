@@ -291,15 +291,12 @@ class ASFBot {
 
     // Function to select a random achievement from the top 20%
     selectRandomAchievement(achievements) {
-        logger.info(`[${this.botName}] Selecting a random achievement from the top 20% of the most common achievements`);
-        logger.info(`[${this.botName}] Achievements: ${JSON.stringify(achievements)}`);
         let size = Math.floor(achievements.length * 0.2);
         // If there are still achievements left, but the 20% slice results in a size of 0, adjust it to 1
         if (achievements.length > 0 && size === 0) {
             size = 1;
         }
         const topAchievements = achievements.slice(0, size);
-        logger.info(`[${this.botName}] Top achievements: ${JSON.stringify(topAchievements)}`);
         return topAchievements[this.randomIntBetween(0, topAchievements.length)];
     }
 
@@ -310,15 +307,12 @@ class ASFBot {
 
         // Get only the achievements that haven't been unlocked yet
         const lockedAchievements = achievements_stats.filter(a => !this.achievementData.unlocked.includes(a.id));
-        logger.info(`[${this.botName}] Locked achievements: ${JSON.stringify(lockedAchievements)}`);
 
         // Sort them by rarity in descending order (from the most common to the least common)
         lockedAchievements.sort((a, b) => parseFloat(b.rare) - parseFloat(a.rare));
-        logger.info(`[${this.botName}] Locked achievements sorted by rarity: ${JSON.stringify(lockedAchievements)}`);
 
         // Select a random achievement from the top 20% of the most common achievements
         const nextAchievement = this.selectRandomAchievement(lockedAchievements);
-        logger.info(`[${this.botName}] Next achievement: ${JSON.stringify(nextAchievement)}`);
 
         return nextAchievement;
     }
